@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/zealics/static/css/main.3af0cb9d.css",
+    "main.js": "/zealics/static/js/main.e00041ae.js",
+    "static/js/453.e6832326.chunk.js": "/zealics/static/js/453.e6832326.chunk.js",
+    "static/media/groupimage.png": "/zealics/static/media/groupimage.602ea011074596ec57d5.png",
+    "static/media/details1.png": "/zealics/static/media/details1.3e3eec667d6e35e07b45.png",
+    "static/media/lady.png": "/zealics/static/media/lady.54e84168d45998511fc4.png",
+    "static/media/details2.png": "/zealics/static/media/details2.8a885fc24837f30cffa5.png",
+    "static/media/image1.png": "/zealics/static/media/image1.14594e2cca297b1a5430.png",
+    "static/media/image2.png": "/zealics/static/media/image2.4a857ab82e07162257d6.png",
+    "static/media/deatils3.png": "/zealics/static/media/deatils3.121b58c5e827f47c28d1.png",
+    "static/media/yagna.png": "/zealics/static/media/yagna.ef53f0ad1b1ed08da2f3.png",
+    "static/media/vision image.png": "/zealics/static/media/vision image.660e45c6b73c9c725f29.png",
+    "static/media/customer-review 1.svg": "/zealics/static/media/customer-review 1.54cbac8fdc19d59eb7b37c7b0d945100.svg",
+    "static/media/reputation 1.svg": "/zealics/static/media/reputation 1.2bed5d5d03f46e8c6cfffb64748322bd.svg",
+    "static/media/slick.svg": "/zealics/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/zealics/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/zealics/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/zealics/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/zealics/index.html",
+    "main.3af0cb9d.css.map": "/zealics/static/css/main.3af0cb9d.css.map",
+    "main.e00041ae.js.map": "/zealics/static/js/main.e00041ae.js.map",
+    "453.e6832326.chunk.js.map": "/zealics/static/js/453.e6832326.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3af0cb9d.css",
+    "static/js/main.e00041ae.js"
+  ]
+}
