@@ -1,0 +1,11 @@
+/* variables.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+
+:root {
+    --font-used: "Space Grotesk";
+    --primary-color: #000000; /* Bootstrap primary color */
+    --button-background: #ffffff; /* White background for buttons */
+    --button-text: #485cec; /* Bootstrap primary color text for buttons */
+  }
+  
